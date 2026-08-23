@@ -1,5 +1,3 @@
-package practice_sets.practice_set_1;
-
 import java.util.Scanner;
 
 public class PercentageCalculator {
