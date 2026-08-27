@@ -10,7 +10,7 @@ public class Main {
         b*=3; // *=,-=,
         System.out.println(b);
         System.out.println(6==8);
-        System.out.println(6==6); 
+        System.out.println(7==7); 
         // 3 comparison operators
         System.out.println(66>6);
         System.out.println(66<6);
