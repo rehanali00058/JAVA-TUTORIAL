@@ -16,5 +16,6 @@ public class Main {
         System.out.println("your Percentage is: " +percentage);
         float CGPA = percentage/10f;
         System.out.println("your CGPA is: " + CGPA);
+        input.close();
     }
 }

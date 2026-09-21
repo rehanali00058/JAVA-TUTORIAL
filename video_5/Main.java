@@ -21,7 +21,7 @@ public class Main
         // float sum = a+b;
         // System.out.println("the sum of these numbers is");
         // System.out.println(sum);
-
+        sc.close();
         
     }
 }

@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        // assignment operators
-        int a = 4;
+        // arithmetic operators
+        int a = 4-1;
         System.out.println(a);
         // int b = 6%a; //module operator
         // 4.8%1.1 --> returns decimal remainder
@@ -19,7 +19,7 @@ public class Main {
         System.out.println(66>6 && 64>5 );
         System.out.println(66>6 );
         System.out.println(66<6 || 64>5 );
-        // 5 bitwise operators
+        // 5 bitwise operators //operates on single bits
         System.out.println(2&3);
 
         
