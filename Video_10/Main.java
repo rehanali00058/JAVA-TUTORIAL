@@ -7,6 +7,7 @@ public class Main {
         int a = y+z;
         float b = 6.54f +x;
         System.out.println(b);
+        System.out.println(a);
 
         //increment and decrement operators
         int i = 54;
@@ -14,6 +15,8 @@ public class Main {
         int h = ++i; // first value of i is increased then it is assigned to h
         int j = 56;
         int c = ++j;
+        System.out.println(v);
+        System.out.println(h);
         System.out.println(c);
         System.out.println(i++); // prints value of i and the increses it (54 will be printed)
         System.out.println(i); // prints value of i (55 will be printed)
